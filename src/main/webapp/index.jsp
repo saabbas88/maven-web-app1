@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 67 / 99 85 29 66 99</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> our  Office Location : Ameerpet, Hyderbad </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
