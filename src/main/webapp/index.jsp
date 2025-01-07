@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 66 / 99 85 29 666 99</h2>
   
-  <h3> our  Office Location : Ameerpet, Hyderbad, Tg </h3>
+  <h3> our  Office Location : Ameerpet, Hyderbad, TELEGANA</h3>
   
  
 </body>
